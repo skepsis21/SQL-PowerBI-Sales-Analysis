@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Power BI temporary/lock files
+~$*.pbix
+*.pbi.lock
