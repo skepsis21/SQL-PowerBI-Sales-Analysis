@@ -38,7 +38,7 @@ The prepared data is used to create a report focused on revenue performance and 
 
 ## Project Walkthrough
 
-🎥 **[Watch the full project walkthrough on LinkedIn](PASTE-YOUR-LINKEDIN-POST-LINK-HERE)**
+🎥 **[Watch the full project walkthrough on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508542926709444608/)**
 
 ## Screenshots
 
